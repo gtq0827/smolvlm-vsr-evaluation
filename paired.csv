@@ -1,0 +1,4 @@
+﻿model_a,model_b,both_correct,only_a,only_b,both_wrong
+256M,500M,11,20,3,26
+256M,2B,14,17,22,7
+500M,2B,8,6,28,18

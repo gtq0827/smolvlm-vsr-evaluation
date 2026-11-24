@@ -1,0 +1,61 @@
+﻿id,image,caption,relation,label,image_link,image_sha256
+4,000000078741.jpg,The cat is facing the keyboard.,facing,0,http://images.cocodataset.org/train2017/000000078741.jpg,cf62054e41d257dfe176086284e2bc857211a0890249f3505b89b9519d862d75
+11,000000463414.jpg,The toilet is behind the car.,behind,0,http://images.cocodataset.org/train2017/000000463414.jpg,23d724e4742d4121b7a57cb70000a09aba3cea986607f5f1541e37745a0caf8d
+37,000000461775.jpg,The cat is under the car.,under,1,http://images.cocodataset.org/train2017/000000461775.jpg,eda4db333a4345c98255d09dbd8bc4ceb4045fb95ffae816d765205a25239bac
+45,000000522405.jpg,The keyboard is in front of the cat.,in front of,0,http://images.cocodataset.org/train2017/000000522405.jpg,56660d43bd44f65f8f5d2deca59687033aadb7479784922a5de425dbba5676bc
+60,000000521749.jpg,The cat is under the car.,under,1,http://images.cocodataset.org/train2017/000000521749.jpg,9653e1c5a3b497f6018eeb79aede0579bc9ce1269bd5a3d1cfc28a0a01fea98a
+82,000000364725.jpg,The book is facing the cat.,facing,1,http://images.cocodataset.org/train2017/000000364725.jpg,c7f6eee644a1e8fa43983f48b4477fcae52f2eaa2f143b75229dce8158cc9c08
+95,000000137514.jpg,The microwave is under the cat.,under,0,http://images.cocodataset.org/train2017/000000137514.jpg,a1d4afe9e998e53f279df0694eb51a86f9b9e307503ff465c481af1cfc25aedc
+103,000000045071.jpg,The backpack is under the cat.,under,1,http://images.cocodataset.org/train2017/000000045071.jpg,4943cf45312739c9223110e61b7d1d22473eb4e57ab8e1e493642bcd9f6d722a
+113,000000207093.jpg,The cat is facing the backpack.,facing,1,http://images.cocodataset.org/train2017/000000207093.jpg,2c4d826d7391afb6052f3d224b0bf45849711cf5065089b5080fe50905cd7f7b
+115,000000467197.jpg,The backpack is above the cat.,above,0,http://images.cocodataset.org/train2017/000000467197.jpg,a52cc6ec8b44b099f9f62ca437a8a9895765eefb80847ea7241e1ac6e8988aa2
+122,000000550019.jpg,The car is next to the parking meter.,next to,1,http://images.cocodataset.org/train2017/000000550019.jpg,c52ea799a845ba86f5706eea10efd54957a7b360793a421f949558e50a51a246
+203,000000295443.jpg,The microwave is under the cat.,under,1,http://images.cocodataset.org/train2017/000000295443.jpg,c0ea9b130b0880cc91d42f588a65e32c03f785ce2810cd1cc7c0050aa943baaf
+212,000000199940.jpg,The backpack is next to the cat.,next to,0,http://images.cocodataset.org/train2017/000000199940.jpg,2c0ac02fdf41eff574970666a1f138b740b4ce0b10ce56e4d395b49af6225359
+225,000000518081.jpg,The cat is above the toilet.,above,1,http://images.cocodataset.org/train2017/000000518081.jpg,a9737d06674db19537eb747f6a4190c52a3e6760d4cab2fd052d637ae392e57d
+249,000000471871.jpg,The car is behind the cat.,behind,1,http://images.cocodataset.org/train2017/000000471871.jpg,a75f68f696d0c7105f3b3a96c68891ff094b3d017f4d0a043c56c07db3e7cd54
+281,000000169200.jpg,The parking meter is in front of the car.,in front of,0,http://images.cocodataset.org/train2017/000000169200.jpg,be9dd91f1ad2f0cf707f009e209ffde3d3de9a84ed3e17e77f6ab06ceccc5d6a
+286,000000091348.jpg,The cat is under the car.,under,1,http://images.cocodataset.org/train2017/000000091348.jpg,6a8b9aae88e9b40e73aad18135737c68220b49fd1727f91b5c79a8e8a04c4670
+289,000000230224.jpg,The car is above the cat.,above,1,http://images.cocodataset.org/train2017/000000230224.jpg,122528df0a12664a3307c1bc091e74ef2698895f9a4c6959f2cc79e584c73e7d
+333,000000490689.jpg,The suitcase is next to the cat.,next to,1,http://images.cocodataset.org/train2017/000000490689.jpg,d19d51eeabb390752d6d7028778efbb216dbc812366338f2a5ca87ee4ae86e39
+348,000000376279.jpg,The car is above the cat.,above,0,http://images.cocodataset.org/train2017/000000376279.jpg,3359837293d313f89593a14bf5072cea6be2e4876188a3dce89ac9695e3ed826
+358,000000287649.jpg,The cat is behind the keyboard.,behind,1,http://images.cocodataset.org/val2017/000000287649.jpg,91fac4147044cc28c5b03a3822f085214a5cf2b60cbe209e5c9b63cda06fc3bd
+366,000000297353.jpg,The book is next to the bed.,next to,1,http://images.cocodataset.org/val2017/000000297353.jpg,04e3358c6cd07b5047134a7a5209818b13783baac0504438ebd385ccf84d65af
+385,000000336182.jpg,The handbag is behind the bed.,behind,1,http://images.cocodataset.org/train2017/000000336182.jpg,41d2d215ea57128bf4da4317acb36928f8119d6105448a885c311ce72e2c3938
+394,000000390474.jpg,The bed is above the backpack.,above,0,http://images.cocodataset.org/train2017/000000390474.jpg,7cd405ef9ff17747e5aca66ab061f108af78c336fb5b7d45c9a6bd53c2d0a575
+423,000000533049.jpg,The book is behind the cat.,behind,0,http://images.cocodataset.org/train2017/000000533049.jpg,b34b83c951b98ecdea605fe3225ec7569226d7db458f179f9952d0fdefc97fc1
+475,000000127799.jpg,The keyboard is in front of the backpack.,in front of,1,http://images.cocodataset.org/train2017/000000127799.jpg,d56a68ad832b8cbd984cdc1821d8a71caefca994344fdd9a4548bb2833dffd12
+476,000000481313.jpg,The book is facing the cat.,facing,0,http://images.cocodataset.org/train2017/000000481313.jpg,46121112b5c515ac7046db0314994a912ddb30fe41e7150d082481bd94216867
+479,000000563805.jpg,The cat is above the toilet.,above,0,http://images.cocodataset.org/train2017/000000563805.jpg,d126af4a4bf711cfde59a9e3b39d3b3efe1dc338d76fc332a365e9b28d0db935
+506,000000148677.jpg,The suitcase is next to the cat.,next to,0,http://images.cocodataset.org/train2017/000000148677.jpg,7d3dad8b59673e74e2aff795f702fcc90e96d05c6f25f09292e64a7690d82dba
+509,000000520694.jpg,The bed is next to the suitcase.,next to,0,http://images.cocodataset.org/train2017/000000520694.jpg,cb70096f9ec3f195ecf92d35c4730aec2d2dbaa63f3d397e52c1dd161b96e977
+530,000000118997.jpg,The backpack is above the cat.,above,1,http://images.cocodataset.org/train2017/000000118997.jpg,c82e1ee273758744d938b2f6daae07f53bda32b01bdfcb2a63f5e5eee8f09aec
+534,000000504158.jpg,The cat is next to the bear.,next to,1,http://images.cocodataset.org/train2017/000000504158.jpg,95d0505736ed52f949a4ae685a539ec6a5d24826963a7afbd6b96ce7656cdb97
+554,000000473964.jpg,The backpack is behind the cat.,behind,1,http://images.cocodataset.org/train2017/000000473964.jpg,58fb0acfbdbe36981a2cbb556e922f7fcf74f1d49d1fa1feb585eab2e4d06fe3
+571,000000191964.jpg,The cat is behind the keyboard.,behind,0,http://images.cocodataset.org/train2017/000000191964.jpg,052891269d7945d3e1e6f872aacee4ae3aae3cca66628ce462840028c5314689
+594,000000158601.jpg,The suitcase is under the cat.,under,0,http://images.cocodataset.org/train2017/000000158601.jpg,b36a1d6c36838616c9f0849f2bfbb4843911e5ac5408d64398da6ceefdaa0809
+642,000000499656.jpg,The book is facing the cat.,facing,1,http://images.cocodataset.org/train2017/000000499656.jpg,c4f71b66af6bb6ebf6087013f26d235a33fb3b7d2686c3178fab5230864a005a
+651,000000443303.jpg,The book is in front of the cat.,in front of,0,http://images.cocodataset.org/val2017/000000443303.jpg,9e8d0db88fca8eaca54dcfcd59ed183f6f3472c73137ab9973edcf9c96e8c0ca
+686,000000466597.jpg,The car is above the cat.,above,1,http://images.cocodataset.org/train2017/000000466597.jpg,c79acecc666f23f7e260bfab304b81e740ab80c9a0e9769348b03bd5e5707d70
+695,000000546691.jpg,The car is in front of the cat.,in front of,0,http://images.cocodataset.org/train2017/000000546691.jpg,52ea1406f7657505cd6a7c7dd8bccb92b3855bf075ef2d442687fb45357d7f23
+703,000000163738.jpg,The cat is above the bed.,above,1,http://images.cocodataset.org/train2017/000000163738.jpg,166b3b41840b48bc7fa60c2a0d40b4be63d9e3aa7bd8cdcd57d29894fa966e16
+709,000000289698.jpg,The microwave is behind the cat.,behind,1,http://images.cocodataset.org/train2017/000000289698.jpg,885e133040259a4004b8b2d70df50458c7818bb9effd0032b217af7919ec3fd9
+731,000000113707.jpg,The car is under the cat.,under,0,http://images.cocodataset.org/train2017/000000113707.jpg,4eca3bfa693b1c0143a8501bbde1eb2fc0f42a16e848992a88512106936c95d3
+737,000000422469.jpg,The car is facing the parking meter.,facing,0,http://images.cocodataset.org/train2017/000000422469.jpg,620d95cf87f6f53e6dd36fc59414df14984fa97de9bc5da6a1da9d88ade0df65
+752,000000057308.jpg,The parking meter is in front of the car.,in front of,1,http://images.cocodataset.org/train2017/000000057308.jpg,b915bc493a6d55e81abb576a658101c778f829ae5684b0fc5bcada9b92d4a218
+785,000000249599.jpg,The cup is in front of the cat.,in front of,1,http://images.cocodataset.org/train2017/000000249599.jpg,e79096444e4f9759ede7c0a78b85bc5a67c761ea57e53751cac2f92abbf2309b
+809,000000302789.jpg,The bed is under the suitcase.,under,0,http://images.cocodataset.org/train2017/000000302789.jpg,687795b5855e2bb317f9af8a5ce820ebdbc32fad7bc0218c618788ee96f1f05a
+812,000000058735.jpg,The car is facing the parking meter.,facing,1,http://images.cocodataset.org/train2017/000000058735.jpg,f970428c528b4b911d20a61adc099d1899e06b337a455d112ebf62b01f25289f
+861,000000416663.jpg,The cat is facing the keyboard.,facing,1,http://images.cocodataset.org/train2017/000000416663.jpg,9a9555a739e4ca8604c61045613b5a72f785e368fe7b3ec6d87742ec98a7ece6
+888,000000273450.jpg,The parking meter is behind the car.,behind,0,http://images.cocodataset.org/train2017/000000273450.jpg,d7be4ee5741663091e4134c74073d113fc05c6643bfe5ab1510ed9331660976b
+1031,000000060952.jpg,The car is above the cat.,above,0,http://images.cocodataset.org/train2017/000000060952.jpg,ad8a77c87a7af674beb2a84212a84f86e1cede2ad20d0a5297b2ca12a73e388a
+1040,000000463825.jpg,The cat is facing the sink.,facing,0,http://images.cocodataset.org/train2017/000000463825.jpg,c7e0a2f90b71d97cc3362f9d79271ceda9182d699543ab48d8205f0e9109ee88
+1066,000000306630.jpg,The cat is under the car.,under,0,http://images.cocodataset.org/train2017/000000306630.jpg,8344959d4caa1d6b6eee575f6af2a4ba951b96e56fb47eb63552815f0c486a81
+1100,000000530730.jpg,The cat is facing the keyboard.,facing,0,http://images.cocodataset.org/train2017/000000530730.jpg,dbe7a628e9a78b4b47ccc6db28708318746ddb79fa16445d92ce3578953b8bbf
+1137,000000114861.jpg,The cup is next to the keyboard.,next to,1,http://images.cocodataset.org/train2017/000000114861.jpg,e447c41aaf3f8ac9b5cc0aa27eca3e7297b2149361834aa4db5a4cb8a5ad7e86
+1153,000000139008.jpg,The handbag is behind the bed.,behind,0,http://images.cocodataset.org/train2017/000000139008.jpg,769ba8377ca1735d76a31d7f25d0ff5aede266c122b832ad90053e1f1b8f61d0
+1158,000000117108.jpg,The vase is in front of the cat.,in front of,1,http://images.cocodataset.org/train2017/000000117108.jpg,77133d6d472702c667ea54277ec7318aaa34714bafed5c4d68652303bb33f459
+1160,000000289698.jpg,The cat is in front of the vase.,in front of,0,http://images.cocodataset.org/train2017/000000289698.jpg,885e133040259a4004b8b2d70df50458c7818bb9effd0032b217af7919ec3fd9
+1197,000000346112.jpg,The cat is next to the bed.,next to,0,http://images.cocodataset.org/train2017/000000346112.jpg,6a0fa48cf73764ca99ea4b440235d72fcb10f73ae09c48cb3fceef3cafa8f179
+1201,000000249644.jpg,The carrot is in front of the cat.,in front of,1,http://images.cocodataset.org/train2017/000000249644.jpg,bfc7764a601e462d17e6518d6addfd9b2f207f76f24579834e71f6852eadedd7
+1207,000000420442.jpg,The cell phone is next to the bed.,next to,0,http://images.cocodataset.org/train2017/000000420442.jpg,6d884b8e11a9707de67caf6a9b8b23d3e459abae21cadda669c995e221c9e1ec
